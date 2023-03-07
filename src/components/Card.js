@@ -1,5 +1,4 @@
 import React from 'react';
-// import exerciseImg from '../img/calisthenics.png';
 import circleImg from '../img/circles.png';
 import './styles/Cards.css';
 

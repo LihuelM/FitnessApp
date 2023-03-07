@@ -2,13 +2,13 @@ import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap-icons/font/bootstrap-icons.css"
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Exercises from "./pages/Excercise";
+import App from './components/App';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Exercises/>
+    <App/>
   </React.StrictMode>
 );
 
