@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aab528e4.css",
+    "main.js": "/static/js/main.77a5804d.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/strengthTraining.png": "/static/media/strengthTraining.0728bd3ac479c154b631.png",
+    "static/media/skillsTraining.png": "/static/media/skillsTraining.6826c4be8abac2fa123d.png",
+    "static/media/circles.png": "/static/media/circles.100e2f086c06d3946bfa.png",
+    "index.html": "/index.html",
+    "main.aab528e4.css.map": "/static/css/main.aab528e4.css.map",
+    "main.77a5804d.js.map": "/static/js/main.77a5804d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aab528e4.css",
+    "static/js/main.77a5804d.js"
+  ]
+}
