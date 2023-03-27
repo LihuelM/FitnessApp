@@ -1,6 +1,6 @@
 import React from 'react';
 import ExerciseForm from '../components/ExerciseForm';
-// import Card from '../components/Card';
+import Card from '../components/Card';
 
 class ExerciseNew extends React.Component {
 
@@ -27,7 +27,7 @@ class ExerciseNew extends React.Component {
     return(
       <div className='row'>
         <div className='col-sm'>
-          {/* <Card {...this.state.form}/> */}
+          <Card {...this.state.form}/>
         </div>
         <div className='col-sm'>
           <ExerciseForm
